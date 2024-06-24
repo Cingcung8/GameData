@@ -1038,5 +1038,189 @@
   {
     "image": "https://www.activewild.com/wp-content/uploads/2022/02/Yak-Animal.jpg",
     "answer": "Yak"
+  },
+    {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/08/African-bush-elephant-and-calf.jpg",
+    "answer": "Gajah Semak Afrika"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2018/04/African_Spurred_Tortoise.jpg",
+    "answer": "Kura-kura Pacu Afrika"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/07/African-Wild-Dog.jpg",
+    "answer": "Anjing Liar Afrika"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Alabama-Red-Bellied-Turtle.jpg",
+    "answer": "Cooter Perut Merah Alabama"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2022/09/Amazon_River_Dolphin.jpg",
+    "answer": "Lumba-lumba Sungai Amazon"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Arroyo-Toad.jpg",
+    "answer": "Kodok Arroyo"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/08/Asian-elephant-and-calf.jpg",
+    "answer": "Gajah Asia"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/02/Aye-aye.jpg",
+    "answer": "Aye-Aye"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Barbary-Macaque.jpg",
+    "answer": "Monyet Barbary"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/07/Basking-shark.jpg",
+    "answer": "Hiu penjemur"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2015/03/Black-footed-Ferret.jpg",
+    "answer": "Musang Berkaki Hitam"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Black-Headed-Spider-Monkey.jpg",
+    "answer": "Monyet Laba-laba Berkepala Hitam"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Blue-Spotted-Tree-Monitor.jpg",
+    "answer": "Biawak pohon tutul biru"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2015/02/Blue-Whale-Swimming.jpg",
+    "answer": "Paus Biru"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2015/05/bonobo.jpg",
+    "answer": "Bonobo"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/03/Chimpanzee.jpg",
+    "answer": "Simpanse"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/03/dhole-running.jpg",
+    "answer": "Lubang"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Egyptian-Vulture.jpg",
+    "answer": "Hering Mesir"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2023/06/European-Rabbit.jpg",
+    "answer": "Kelinci Eropa"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Galapagos-Penguin.jpg",
+    "answer": "Penguin Galapagos"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Galapagos-Sea-Lion-With-Pup.jpg",
+    "answer": "Singa Laut Galapagos"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2023/01/Giant-Abalone.jpg",
+    "answer": "Abalon Raksasa"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2022/08/Giant-Otter.jpg",
+    "answer": "Berang-berang Raksasa"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2019/09/Golden-Lion-Tamarin.jpg",
+    "answer": "Tamarin Singa Emas"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2016/12/Golden-Poison-Dart-Frog.jpg",
+    "answer": "Katak Racun Emas"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Green-eyed-bushfrog.jpg",
+    "answer": "Katak Semak Bermata Hijau"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2019/09/Reptile-Green-Sea-Turtle.jpg",
+    "answer": "Penyu Hijau"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Grey-Parrot.jpg",
+    "answer": "Burung Beo Abu-abu"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Humphead-Wrasse.jpg",
+    "answer": "Ikan Bungkuk"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2023/01/Iberian-Lynx.jpg",
+    "answer": "Lynx Iberia"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Majorcan-Midwife-Toad.jpg",
+    "answer": "Katak Bidan Mayorcan"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2023/01/Marine-Otter-CC.jpg",
+    "answer": "Berang-berang Laut"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Okapi.jpg",
+    "answer": "Okapi"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Puritan-Tiger-Beetle.jpg",
+    "answer": "Kumbang Harimau Puritan"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2017/01/Queen-Alexandras-Birdwing-Butterfly.jpg",
+    "answer": "Kupu-kupu Ratu Alexandra"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Red-Hills-Salamander.jpg",
+    "answer": "Salamander Bukit Merah"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Red-Panda.jpg",
+    "answer": "Panda Merah"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2015/07/Sea-Otter.jpg",
+    "answer": "Berang-berang Laut"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/South-Asian-River-Dolphin.jpg",
+    "answer": "Lumba-lumba Sungai Asia Selatan"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Bombus-fraternus.jpg",
+    "answer": "Lebah Dataran Selatan"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2022/09/Steppe-Eagle.jpg",
+    "answer": "Elang Stepa"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2019/07/Tasmanian-Devil.jpg",
+    "answer": "Setan Tasmania"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/04/tiger-in-jungle.jpg",
+    "answer": "Harimau"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2021/08/Tiger-Chameleon.jpg",
+    "answer": "Bunglon Harimau"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2020/08/Whale-Shark.jpg",
+    "answer": "Hiu Paus"
+  },
+  {
+    "image": "https://www.activewild.com/wp-content/uploads/2019/07/Whooping-Crane.jpg",
+    "answer": "Burung Rejan"
   }
 ]
